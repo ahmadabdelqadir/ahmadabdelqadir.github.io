@@ -81,7 +81,7 @@ theme_mode:   # [light|dark]
 img_cdn: 'https://chirpy-img.netlify.app'
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://instagram.ftlv1-1.fna.fbcdn.net/v/t51.2885-19/322014625_196359996252681_4018203241356193776_n.jpg?stp=dst-jpg_s320x320&_nc_ht=instagram.ftlv1-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=IE_MPCMZrXIAX90QZ4v&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfBi5Pcr4y5kPrgLVpghKRuGcXx7l0HmGs3BanEQmrbzsw&oe=641E03B9&_nc_sid=8fd12b
+avatar: https://pbs.twimg.com/profile_images/1637920704485007367/pJqZHq2p_400x400.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
